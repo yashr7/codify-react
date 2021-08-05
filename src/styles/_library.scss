@@ -4,8 +4,8 @@
   left: 0;
   width: 20rem;
   height: 100%;
-  background: white;
-  box-shadow: 2px 2px 50px rgb(204, 204, 204);
+  background: #1b3a4b;
+  box-shadow: 2px 2px 50px #1f2041;
   overflow: scroll;
   transform: translateX(-100%);
   transition: all 0.5s ease;
@@ -24,7 +24,7 @@
     width: 30%;
   }
   &:hover {
-    background: rgb(222, 222, 255);
+    background: #4b3f72;
   }
 }
 .song-description {
@@ -38,7 +38,7 @@
 }
 
 .selected {
-  background: rgb(178, 209, 255);
+  background: #1f2041;
 }
 .active-library {
   transform: translateX(0%);

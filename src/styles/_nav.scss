@@ -7,12 +7,13 @@ nav {
     background: transparent;
     border: none;
     cursor: pointer;
-    border: 2px solid rgb(65, 65, 65);
+    border: 2px solid #ffc857;
+    color: #ffc857;
     padding: 0.5rem;
     transition: all 0.3s ease;
     &:hover {
-      background: rgb(65, 65, 65);
-      color: white;
+      background: #ffc857;
+      color: #1f2041;
     }
   }
 }

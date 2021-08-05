@@ -5,16 +5,19 @@
 }
 body {
   font-family: "Lato", sans-serif;
+  background: #1f2041;
 }
 h1,
 h2,
 h3 {
-  color: rgb(54, 54, 54);
+  color: #57cc99;
 }
 h3,
 h4 {
   font-weight: 400;
-  color: rgb(100, 100, 100);
+  color: #ffc857;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .App {
   transition: all 0.5s ease;

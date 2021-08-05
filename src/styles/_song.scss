@@ -7,9 +7,10 @@
   img {
     width: 20%;
     border-radius: 50%;
+    padding: 1rem;
   }
   h2 {
-    padding: 3rem 1rem 1rem 1 rem;
+    padding: 3rem 1rem 1rem 1rem;
   }
   h3 {
     font-size: 1rem;
@@ -19,7 +20,7 @@
 @media screen and (max-width: 768px) {
   .song-container {
     img {
-      width: 60%;
+      width: 45%;
     }
   }
 }
